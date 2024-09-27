@@ -2,7 +2,7 @@
 - 👀 I’m interested in sleeping
 - 🌱 I’m currently learning CUDA and sleeping
 - 💞️ I’m looking to collaborate on Magnificent Seven
-- 📫 How to reach me: nguyenp@union.edu
+- 📫 How to reach me: nguyenp@union.edu or linkedin.com/in/minhphucnguyen25/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like sleeping but I'm not good at sleeping;-;
 
